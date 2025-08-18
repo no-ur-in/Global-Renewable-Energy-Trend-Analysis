@@ -1,6 +1,7 @@
 # Global-Renewable-Energy-Trend-Analysis
  <img width="389" height="129" alt="Image" src="https://github.com/user-attachments/assets/bdcb83b2-5c89-4070-86e8-4f100199a6da" />
-> **A multi-tool analysis of renewable energy production, emissions, and efficiency across countries and energy types using Python, R, and Tableau.**  
+
+ **A multi-tool analysis of renewable energy production, emissions, and efficiency across countries and energy types using Python, R, and Tableau.**  
 
 ---
 
